@@ -1,4 +1,4 @@
-@import "fonts";
+@import "utility/fonts";
 
 // You can modify the theme directly, or override some of the variables
 // Overrides just need placed prior to the theme import
@@ -17,5 +17,5 @@
 @import "files";
 @import "styles";
 @import "profile";
-@import "footer";
+@import "block/footer";
 @import "links";
