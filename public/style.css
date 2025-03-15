@@ -4,7 +4,7 @@
   --color-primary: #3a00ff;
   --color-primary-alt: #6f6ffd;
   --color-secondary: #d42257;
-  --color-background: #d2fbf7;
+  --color-background: #c3b184;
   --color-text: rgb(64.925, 44.625, 133.875);
   --color-light: #fff;
   --color-anchor: #3a00ff;
@@ -745,3 +745,5 @@ nav ul li {
   margin-right: 0.25em;
   fill: currentColor;
 }
+
+/*# sourceMappingURL=style.css.map */
