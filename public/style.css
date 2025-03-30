@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Overlock:wght@200..700&display=swap");
 :root {
   --color-primary: #3a00ff;
   --color-primary-alt: #6f6ffd;
@@ -8,7 +8,7 @@
   --color-text: rgb(64.925, 44.625, 133.875);
   --color-light: #fff;
   --color-anchor: #3a00ff;
-  --font-family: "Baloo 2", sans-serif;
+  --font-family: "Overlock", sans-serif;
   --font-weight-strong: 500;
   --font-size-h1: 6rem;
   --font-size-h2: 3rem;
@@ -744,6 +744,10 @@ nav ul li {
   height: 1em;
   margin-right: 0.25em;
   fill: currentColor;
+}
+
+header h1 {
+  font-family: "Maiden Orange, serif";
 }
 
 /*# sourceMappingURL=style.css.map */
