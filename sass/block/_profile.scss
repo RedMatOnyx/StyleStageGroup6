@@ -7,7 +7,7 @@
 
   h4 {
     margin: 0;
-    color: var(--color-secondary);
+    color: var(--color-primary);
     text-align: center;
   }
 
@@ -16,9 +16,10 @@
     justify-items: center;
     grid-gap: 1rem;
 
-    > a {
+    >a {
       min-height: 2em;
-      border: 2px solid currentColor;
+      border: 1px solid currentColor;
+      border-radius: var(--border-radius);
       color: var(--color-secondary);
     }
   }

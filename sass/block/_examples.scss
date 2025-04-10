@@ -1,0 +1,21 @@
+#about {
+  section:nth-child(2) {
+    position: relative;
+
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin: 1rem 0 2rem;
+      padding: 0;
+      list-style: none;
+
+      li {
+        margin: 0.25em;
+        padding: 0.25em 0.5em;
+        border-radius: var(--border-radius);
+        background-color: var(--color-light);
+      }
+    }
+  }
+}
